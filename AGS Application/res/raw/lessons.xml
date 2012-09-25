@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lessons>
+		<lesson name="Mathematik" abbreviation="Ma" region="HS" />
+		<lesson name="Austria" abbreviation="at" region="Europe" />
+		<lesson name="Belgium" abbreviation="be" region="Europe" />
+		<lesson name="Brazil" abbreviation="br" region="S. America" />
+		<lesson name="Canada" abbreviation="ca" region="N. America" />
+		<lesson name="China" abbreviation="cn" region="Asia" />
+		<lesson name="Denmark" abbreviation="dk" region="Europe" />
+		<lesson name="France" abbreviation="fr" region="Europe" />
+		<lesson name="Germany" abbreviation="de" region="Europe" />
+		<lesson name="Hong Kong" abbreviation="hk" region="Asia" />
+		<lesson name="India" abbreviation="in" region="Asia" />
+		<lesson name="Indonesia" abbreviation="id" region="Asia" />
+		<lesson name="Italy" abbreviation="it" region="Europe" />
+		<lesson name="Korea" abbreviation="kr" region="Asia" />
+		<lesson name="Netherlands" abbreviation="nl" region="Europe" />
+		<lesson name="Norway" abbreviation="no" region="Europe" />
+		<lesson name="Portugal" abbreviation="pt" region="Europe" />
+		<lesson name="Singapore" abbreviation="sg" region="Asia" />
+		<lesson name="Spain" abbreviation="es" region="Europe" />
+		<lesson name="Sweden" abbreviation="se" region="Europe" />
+		<lesson name="Switzerland" abbreviation="ch" region="Europe" />
+		<lesson name="Taiwan" abbreviation="tw" region="Asia" />
+		<lesson name="United Kingdom" abbreviation="uk" region="Europe" />
+		<lesson name="United States" abbreviation="us" region="N. America" />
+</lessons>
